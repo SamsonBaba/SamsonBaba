@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamsonBaba (Samson Fayoyiwa)
 - 👀 I’m interested in automation, devops 
-- 🌱 I’m currently learning C#, python, bash/shell scripting 
+- 🌱 I’m interested in C#, python, bash/shell scripting 
 - 💞️ I’m looking to collaborate on any devops related project
 - 📫 How to reach me : sfayoyiwa@oneweb.net
 
